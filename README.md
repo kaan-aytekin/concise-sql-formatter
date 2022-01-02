@@ -32,4 +32,8 @@ This extension uses a forked version of [sql-formatter-plus](https://github.com/
 
 Initial release of concise-sql-formatter. Good luck out there🤞
 
+### 0.0.2
+
+Added an icon for the extension.
+
 -----------------------------------------------------------------------------------------------------------
