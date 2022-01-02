@@ -24,7 +24,7 @@ This extension uses a forked version of [sql-formatter-plus](https://github.com/
 | ----------------------------------| ----------------------------------- |
 | **`concise-sql-formatter.dialect`** | Used SQL dialect (`sql`: Standard SQL, `n1ql`: Couchbase N1QL, `db2`: IBM DB2, `pl/sql`: Oracle PL/SQL). (Default: `sql`)
 | **`concise-sql-formatter.uppercase`** | Convert keywords to uppercase. (Default: `true`) |
-| **`concise-sql-formatter.linesBetweenQueries`** | Number of lines between different queries. (Default: 2) |
+| **`concise-sql-formatter.linesBetweenQueries`** | Number of lines between different queries. (Default: `2`) |
 
 ## Release Notes
 

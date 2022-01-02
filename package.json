@@ -3,7 +3,12 @@
 	"displayName": "Concise SQL Formatter",
 	"description": "An SQL formatter that generates concise and readable SQL queries.",
 	"version": "0.0.1",
-	"publisher": "Kaan Aytekin",
+	"publisher": "kaanaytekin",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/kaan-aytekin/concise-sql-formatter.git"
+	},
+	"icon": "images/logo.png",
 	"engines": {
 		"vscode": "^1.62.0"
 	},
