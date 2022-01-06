@@ -2,7 +2,7 @@
 	"name": "concise-sql-formatter",
 	"displayName": "Concise SQL Formatter",
 	"description": "An SQL formatter that generates concise and readable SQL queries.",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "kaanaytekin",
 	"repository": {
 		"type": "git",
@@ -10,7 +10,7 @@
 	},
 	"icon": "images/icon.png",
 	"engines": {
-		"vscode": "^1.62.0"
+		"vscode": "^1.13.0"
 	},
 	"categories": [
 		"Formatters"
@@ -65,7 +65,7 @@
 		"@types/glob": "^7.1.4",
 		"@types/mocha": "^9.0.0",
 		"@types/node": "14.x",
-		"@types/vscode": "^1.62.0",
+		"@types/vscode": "^1.13.0",
 		"@vscode/test-electron": "^1.6.2",
 		"eslint": "^8.1.0",
 		"glob": "^7.1.7",
